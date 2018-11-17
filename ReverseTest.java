@@ -5,7 +5,7 @@ public class ReverseTest {
 		
 		String str;
 		int i;
-		
+		int j;
 		System.out.print("문자열을 입력하세요");
 		Scanner input = new Scanner(System.in);
 		str = input.next();
